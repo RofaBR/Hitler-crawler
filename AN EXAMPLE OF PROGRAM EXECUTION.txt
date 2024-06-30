@@ -1,0 +1,34 @@
+AN EXAMPLE OF PROGRAM EXECUTION
+
+Enter the Wikipedia page URL: https://en.wikipedia.org/wiki/Europe
+Enter the number of threads (default is 8): 8
+Starting search with 8 threads.
+Thread 8140 processing URL: https://en.wikipedia.org/wiki/Europe
+Thread 8140 found 2973 links on https://en.wikipedia.org/wiki/Europe
+Path to Hitler page: https://en.wikipedia.org/wiki/Europe / https://en.wikipedia.org/wiki/Adolf_Hitler /
+
+
+
+Enter the Wikipedia page URL: https://en.wikipedia.org/wiki/Rifle
+Enter the number of threads (default is 8): 8
+Starting search with 8 threads.
+Thread 10520 processing URL: https://en.wikipedia.org/wiki/Rifle
+Thread 10520 found 729 links on https://en.wikipedia.org/wiki/Rifle
+Thread 15184 processing URL: https://en.wikipedia.org/wiki/Main_Page
+Thread 16768 processing URL: https://en.wikipedia.org/wiki/Main_Page
+Thread 16768 processing URL: https://en.wikipedia.org/wiki/M40_rifle
+Thread 9212 processing URL: https://en.wikipedia.org/wiki/National_Firearms_Museum
+Thread 18480 processing URL: https://en.wikipedia.org/wiki/Virginia
+Thread 1812 processing URL: https://en.wikipedia.org/wiki/FAMAS
+Thread 9192 processing URL: https://en.wikipedia.org/wiki/Vz._52_rifle
+Thread 10520 processing URL: https://en.wikipedia.org/wiki/CAR-15
+Thread 17264 processing URL: https://en.wikipedia.org/wiki/Rifle_(disambiguation)
+Thread 15184 found 102 links on https://en.wikipedia.org/wiki/Main_Page
+Thread 1812 found 444 links on https://en.wikipedia.org/wiki/FAMAS
+Thread 17264 found 22 links on https://en.wikipedia.org/wiki/Rifle_(disambiguation)
+Thread 18480 found 2539 links on https://en.wikipedia.org/wiki/Virginia
+Thread 10520 found 621 links on https://en.wikipedia.org/wiki/CAR-15
+Thread 9212 found 81 links on https://en.wikipedia.org/wiki/National_Firearms_Museum
+Thread 9192 found 168 links on https://en.wikipedia.org/wiki/Vz._52_rifle
+Thread 16768 found 192 links on https://en.wikipedia.org/wiki/M40_rifle
+Path to Hitler page: https://en.wikipedia.org/wiki/Rifle / https://en.wikipedia.org/wiki/Main_Page / https://en.wikipedia.org/wiki/Adolf_Hitler /
